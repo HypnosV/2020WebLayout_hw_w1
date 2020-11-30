@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.wrap {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.h1 {
+    font-size: 80px;
+    line-height: 94px;
+    font-family: "Roboto";
+    font-weight: 400;
+    border-bottom: 2px solid #000;
+}
+
+.header img {
+    margin: 48px 0;
+}
+
+.h2 {
+    font-size: 32px;
+    line-height: 43px;
+}
+
+.h2 span {
+    font-size: 24px;
+    line-height: 28px;
+    padding-left: 16px;
+}
+
+.h2-dark { 
+    color: #000;
+    border-bottom:1px solid #000;
+}
+
+.h2-light {
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    text-align: center;
+}
+
+.h2-dark span {
+    color: #A00404;
+}
+
+.h2-light span {
+    color: #fff;
+}
+
+.skills h2 {
+    width: 996px;
+    margin: 0 auto;
+}
+
+.footer h2 {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.h3-dark {
+    font-size: 24px;
+    line-height: 36px;
+    font-family: "Noto Sans";
+    font-weight: 400;
+}
+
+.h3-light {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 36px;
+    color: #fff;
+}
+
+
+.section-dist {
+    margin-bottom: 72px;
+}
+
+.section-content {
+    margin-top: 16px;
+}
+
+.section-content li {
+    margin-bottom: 24px;
+}
+
+.skills ul {
+    width: 230px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.skills li {
+    border-left: 1px solid #fff; 
+    padding-left: 24px;
+}
+
+.experience ul {
+    margin-left: 24px;
+    border-left: 1px solid #96A9C4; 
+    padding-left: 24px;
+}
+
+
+.experience .section-content img {
+    padding: 8px 0;
+}
+
+.experience .section-content p {
+    font-family: "Noto Sans";
+    font-size: 20px;
+    line-height: 30px;
+    width: 635px;
+}
+
+.bg-dark {
+    background-color: #415165;
+    padding: 24px 0 36px 0 ;
+}
+
+.contact {
+    text-align: center;
+    margin-top: 32px;
+}
+
+.contact li {
+    padding-bottom: 16px;
+}
+
+.contact a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.contact a:hover {
+    color: #96A9C4;
+}
+
+.socialmedia {
+    display: flex;
+    justify-content: center;
+}
+
+.socialmedia li {
+    margin: 0 12px;
+}
+
+
+
